@@ -4,9 +4,9 @@ Soy un ingeniero civil electricista graduado de la Universidad de Chile que se d
 
 Mis experiencias en esta diversidad de empresas en conjunto con mi vida cosmopolita me permiten tener una visión única de la tecnología y la cultura empresarial. Mi estilo particular aporta algo distinto al ambiente laboral.
 
-Me caracterizo por ser libre, directo, honesto, amante del cambio y el progeso, teniendo además contactos con profesionales de primer nivel que me permiten resolver cualquier tipo de problema tecnológico. Destaco por aprender rápidamente cualquier tecnología. Últimamente he trabajado usando Python, React y Flutter.
+Me caracterizo por ser libre, directo, honesto, amante del cambio y el progeso, teniendo además contactos con profesionales de primer nivel que me permiten resolver cualquier tipo de problema tecnológico. Destaco por aprender rápidamente cualquier tecnología. Se destaca experiencia en Python, React y Flutter.
 
-Habiendo conocido las distintas culturas empresariales, soy un férreo enemigo de las modas. Por ejemplo me ha llamado mucho la atención la moda que se ha instalado en Chile de la "metodología ágil", algo que está lejos de ser el método de funcionamiento de start ups o empresas de tecnología moderna de primer nivel, donde se le entrega confianza y libertad a los empleados.
+Habiendo conocido las distintas culturas empresariales, soy un férreo enemigo de las modas. Me ha llamado mucho la atención la moda que se ha instalado en Chile de la "metodología ágil", algo que está lejos de ser el método de funcionamiento de start ups o empresas de tecnología moderna de primer nivel, donde se le entrega confianza y libertad a los empleados.
 
 Ofrezco a las empresas:
 - Desarrollo de proyectos de software
