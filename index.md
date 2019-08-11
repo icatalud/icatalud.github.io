@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Catalán Consultoría (contacto@catalanconsultoria.cl)
 
-You can use the [editor on GitHub](https://github.com/icatalud/icatalud.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Soy un ingeniero civil electricista graduado de la Universidad de Chile que se dedica al desarrollo de software. Cuento con una variada experiencia laboral, habiendo pasado por una pequeña empresa de desarrollo de software para universidades, start up, 2 años de trabajo en Google sede Mountain View CA y una multinacional consultora de software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mis experiencias en esta diversidad de empresas en conjunto con mi vida cosmopolita me permiten tener una visión única de la tecnología y la cultura empresarial. Mi estilo particular aporta algo distinto al ambiente laboral.
 
-### Markdown
+Me caracterizo por ser libre, directo, honesto, amante del cambio y el progeso, teniendo además contactos con profesionales de primer nivel que me permiten resolver cualquier tipo de problema tecnológico. Destaco por aprender rápidamente cualquier tecnología. Últimamente he trabajado usando Python, React y Flutter.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Habiendo conocido las distintas culturas empresariales, soy un férreo enemigo de las modas. Por ejemplo me ha llamado mucho la atención la moda que se ha instalado en Chile de la "metodología ágil", algo que está lejos de ser el método de funcionamiento de start ups o empresas de tecnología moderna de primer nivel, donde se le entrega confianza y libertad a los empleados.
 
-```markdown
-Syntax highlighted code block
+Ofrezco a las empresas:
+- Desarrollo de proyectos de software
+- Desarrolladores full o part time que trabajen en las oficinas de la empresa (incluyéndome)
+- Mesas de conversación libre donde abro el debate al entregar mis visión de forma de trabajar orgánica dirigida a objetivos, incentivando a las personas a que sean emprendedoras en vez de estancarse en esquemas de trabajo estructurados
+- Análisis de la cultura organizacional donde hago mis observaciones y sugerencias para crear ambientes más libres y creativos
 
-# Header 1
-## Header 2
-### Header 3
+### Open source
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/icatalud/icatalud.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Librería open source para manejo de estados en Flutter](https://github.com/icatalud/floop)
