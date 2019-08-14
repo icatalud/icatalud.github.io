@@ -1,4 +1,4 @@
-## Soluciones de software
+## {{ site.email }}
 
 Automatización, optimización, software a medida, transformación digital, cualquiera sea el problema tecnológico que presente, lo podemos resolver en conjunto.
 
